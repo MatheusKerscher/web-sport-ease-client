@@ -1,27 +1,52 @@
-# WebSportEaseClient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+# SportEase UFPR - Client
 
-## Development server
+![GitHub repo size](https://img.shields.io/github/repo-size/MatheusKerscher/web-sport-ease-manager?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/MatheusKerscher/web-sport-ease-manager?style=for-the-badge)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<img src="/src/assets/preview/preview.png" alt="Página do SportEase UFPR - Client">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> O SportEase UFPR - Client foi o sistema desenvolvido para o meu TCC. Fui o responsavél pela criação do website, nele é possível realizar as solicitações de reserva e acompanhar seus processos, visualizar os espaços esportivos com suas respectivas avaliações, realizar a avaliação da reserva e visualziar o histórico de solicitações feitas.
 
-## Build
+## 🥳 Visualizar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Caso não queira instalar e usar o SportEase UFPR - Clientlocalmente, ele também está hospedado. Sendo possível, através desse [link](https://sportease-client.netlify.app/login), você ser redirecionado para ele.
+	  
+## 💻 Pré-requisitos
 
-## Running unit tests
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+ 
+- Você deve ter instalado na sua máquina [Node.js](https://nodejs.org/en) e [Angular CLI](https://angular.io/guide/setup-local)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Instalando SportEase UFPR - Client
 
-## Running end-to-end tests
+Para instalar o SportEase UFPR - Manager, siga estas etapas:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Clone o repositório:
 
-## Further help
+```
+git clone https://github.com/MatheusKerscher/web-sport-ease-client.git
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Acesse a pasta do repositório:
+
+```
+cd web-sport-ease-client/
+```
+
+Instale as dependências do projeto:
+``` 
+npm i
+```
+
+## ☕ Usando SportEase UFPR - Manager
+
+Para usar SportEase UFPR - Client, siga estas etapas:
+
+Executar e abrir o projeto:
+```
+ng s -o
+```
+
+> A flag "-o" fará o projeto já ser aberto em uma nova guia no navegador padrão do seu compuador.
