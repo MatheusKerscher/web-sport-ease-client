@@ -9,6 +9,10 @@
 
 > O SportEase UFPR - Client foi o sistema desenvolvido para o meu TCC. Fui o responsavél pela criação do website, nele é possível realizar as solicitações de reserva e acompanhar seus processos, visualizar os espaços esportivos com suas respectivas avaliações, realizar a avaliação da reserva e visualziar o histórico de solicitações feitas.
 
+## 🚨BACK-END DESATIVADO🚨
+
+O servidor do sistema está desativado no momento 🥲. Mas atarvés do [link](https://youtu.be/PbXmPTId0Vw?si=YEWMBctSWdCitary) você consegue ver como ele funciona :)
+
 ## 🥳 Visualizar o projeto
 
 Caso não queira instalar e usar o SportEase UFPR - Clientlocalmente, ele também está hospedado. Sendo possível, através desse [link](https://sportease-client.netlify.app/login), você ser redirecionado para ele.
